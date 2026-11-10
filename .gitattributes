@@ -1,0 +1,11 @@
+# Normalize line endings
+# Generated on 2026-11-18
+# Configuration for git attributes
+*.jpeg binary
+*.min.js linguist-generated
+*.sh text eol=lf
+public/** linguist-vendored
+src/**/*.ts linguist-detectable
+public/* linguist-vendored
+Cargo.lock linguist-generated
+# eof 90189795
